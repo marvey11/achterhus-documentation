@@ -1,0 +1,10 @@
+# Default to enabling all rules
+default: true
+
+# Prevent Git diff noise on lists
+# Enforces a consistent 2-space indentation style for nested bullet points
+MD007:
+  indent: 2
+
+# Disable line length restrictions, use soft-wrap-
+MD013: false
