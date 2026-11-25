@@ -4,3 +4,4 @@ Documentation for the Achterhus server and all its systems
 
 * [Overview of Important Shell Commands](./docs/achterhus_commands.md)
 * [Achterhus Telemetry Workflow](./docs/achterhus_telemetry.md)
+* [Disk Healthchecks](./docs/disk-healthcheck.md)
